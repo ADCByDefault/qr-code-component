@@ -25,6 +25,7 @@ body {
 
 .card {
     background-color: var(--White);
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, .2);
     text-align: center;
     width: 300px;
     padding: 1.1rem;
